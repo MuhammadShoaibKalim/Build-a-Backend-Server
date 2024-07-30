@@ -1,0 +1,14 @@
+{
+  "name": "first-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "start": "node index",
+  "dev": " npm run",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
